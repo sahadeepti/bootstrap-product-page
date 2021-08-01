@@ -1,0 +1,90 @@
+body {
+    font-size: 16px;
+}
+
+.logo {
+    font-weight: bolder;
+    color: #333;
+}
+
+.nav-link {
+    color: #666;
+    font-family: sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family:BlinkMacSystemFont, sans-serif;
+}
+
+p {
+    font-family:'Segoe UI';
+}
+
+#showcase h1 {
+    font-size:50px;
+    margin-bottom: 20px;
+}
+
+#showcase img {
+    width: 90%;
+    margin-left: 60px;
+}
+
+#showcase .showcase-right {
+    margin-top: 120px;
+}
+ 
+#testimonial {
+    background: #e5e2e2;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#testimonial p {
+    font-size: 18px;
+    font-family: 'Arial Narrow';
+    font-weight: lighter;
+    color: #000;
+}
+
+#testimonial p.customer {
+    font-size: 15px;
+    color: #666;
+}
+
+#features {
+    margin-top: 90px;
+    margin-bottom: 60px;
+}
+
+.feature-right {
+    margin-top: 20px;
+}
+
+#contact {
+    background: url('https://images.pexels.com/photos/128611/pexels-photo-128611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+    padding: 50px;
+    color: #fff;
+    border-top: #333 7px solid;
+    border-bottom: #333 7px solid;
+}
+
+#contact input {
+    padding: 8px;
+    margin-bottom: 15px;
+}
+
+#contact label {
+    font-size: 18px;
+    padding-bottom: 2px;
+}
+
+#contact button {
+    margin-top: 15px;
+}
+
+footer {
+    padding: 30px;
+}
